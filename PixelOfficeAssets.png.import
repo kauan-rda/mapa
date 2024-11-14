@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://djral5y324u4t"
-path="res://.godot/imported/LargePixelOffice.png-3ec8d62ae81421c1af8d72cbc8682e91.ctex"
+uid="uid://csv2ftysp4omy"
+path="res://.godot/imported/PixelOfficeAssets.png-75a07f0abd6f73856784a099f7cdc95a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://LargePixelOffice.png"
-dest_files=["res://.godot/imported/LargePixelOffice.png-3ec8d62ae81421c1af8d72cbc8682e91.ctex"]
+source_file="res://PixelOfficeAssets.png"
+dest_files=["res://.godot/imported/PixelOfficeAssets.png-75a07f0abd6f73856784a099f7cdc95a.ctex"]
 
 [params]
 
